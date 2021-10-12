@@ -196,4 +196,5 @@ fedex.freight_rates({
   }
 
   console.log(res);
+//     console.log(res);
 });
